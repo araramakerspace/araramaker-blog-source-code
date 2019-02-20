@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Araras makers'
 SITENAME = 'Arara Makerspace'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'https://araramakerspace.github.io/blog/'
 
 PATH = 'content'
 
