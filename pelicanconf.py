@@ -42,7 +42,7 @@ DISPLAY_PAGES_ON_MENU = True
 
 TWITTER_USERNAME = 'twitter-user-name'
 
-MENUITEMS = (('Blog', SITEURL),('Home', SITEURL),('Help-us', SITEURL))
+MENUITEMS = (('Blog', SITEURL),('Home', SITEURL),('Help-us', SITEURL),('Code of conduct', SITEURL+'code of conduct.html'))
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
